@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://habaoxing.cn/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://habaoxing.cn/</loc>
+</url>
+<url>
+<loc>https://habaoxing.cn/quan-xian-yu-shi-ming-ren-zheng/</loc>
+<lastmod>2021-03-07T16:57:34+08:00</lastmod>
+<image:image>
+<image:loc>https://help-assets.codehub.cn/enterprise/20201221201626.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://help-assets.codehub.cn/enterprise/20201221200736.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://help-assets.codehub.cn/enterprise/20201222100621.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://habaoxing.cn/ruan-jian-kan-zhao-huan-hao-ba/</loc>
+<lastmod>2021-03-07T16:57:06+08:00</lastmod>
+<image:image>
+<image:loc>https://assets.codehub.cn/resources/logo3-png.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
