@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://habaoxing.cn/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.habaoxing.cn/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://habaoxing.cn/</loc>
+<loc>https://www.habaoxing.cn/</loc>
 </url>
 <url>
-<loc>https://habaoxing.cn/di-yi-ci/</loc>
+<loc>https://www.habaoxing.cn/di-yi-ci/</loc>
 <lastmod>2021-03-08T12:13:56+08:00</lastmod>
+</url>
+<url>
+<loc>https://www.habaoxing.cn/mei-ri-yi-xue-gou-mai-yong-jiu-you-qing-quan-ji-lu/</loc>
+<lastmod>2021-03-08T13:15:09+08:00</lastmod>
 </url>
 </urlset>
