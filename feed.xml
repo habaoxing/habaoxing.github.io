@@ -3,137 +3,37 @@
     <title>哈宝星</title>
     <link href="https://habaoxing.cn/feed.xml" rel="self" />
     <link href="https://habaoxing.cn" />
-    <updated>2021-03-07T18:35:11+08:00</updated>
+    <updated>2021-03-08T12:38:13+08:00</updated>
     <author>
         <name>哈宝星</name>
     </author>
     <id>https://habaoxing.cn</id>
 
     <entry>
-        <title>权限与实名认证</title>
+        <title>三八妇女节这天，无意中闯入哈宝星球</title>
         <author>
             <name>哈宝星</name>
         </author>
-        <link href="https://habaoxing.cn/quan-xian-yu-shi-ming-ren-zheng/index.html"/>
-        <id>https://habaoxing.cn/quan-xian-yu-shi-ming-ren-zheng/index.html</id>
+        <link href="https://habaoxing.cn/di-yi-ci/index.html"/>
+        <id>https://habaoxing.cn/di-yi-ci/index.html</id>
 
-        <updated>2021-03-07T16:57:34+08:00</updated>
+        <updated>2021-03-08T12:13:56+08:00</updated>
             <summary>
                 <![CDATA[
-                    操作场景在首次创建静态网站前，您必须先完成授权操作和实名认证，以获得对腾讯云云产品的操作权限。以下将介绍这两项工作的具体操作步骤。 您所在的 CODING 用户组需拥有持续部署的管理、部署、删除权限，否则将无法进行网站部署。您可联系您的团队所有者/管理员为您开通这些权限，团队所有者/管理员的操作步骤如下： 登录 CODING 控制台； 进入需进行静态网站服务部署的项目； 单击左下角的「项目设置」； 使用 CODING 静态网站服务前，您绑定的腾讯云账号必须拥有 CODING_QCSRole 和 SLS_QCSRole 两个权限角色及这些角色关联的权限策略，否则将无法进行网站部署，您可以在腾讯云访问管理控制台查询是否拥有该权限角色。为方便操作，您可以在 CODING 一键完成授权。授权步骤如下：点击静态网站部署按钮，进行部署操作前将自动校验腾讯云权限；
+                    今天是公元2021年3月8日，虽然是阴雨天气，但在我原来呆的地球星上却是一个大日子，顶起地球半边天的女性专属节日！ 自从女性开启了女权启蒙运动以来，从原来男权社会的家庭附属品地位，身份一跃千里，已然进入女权社会，男权已被打压得抬不起头来。从女性节日的称呼就可看出来，最先是充满辱骂意味的“（死）三八”，发展到3月7日女生节，而3月8日则高调的成为女神节。已经有了“男人贱如狗，女神遍地走”的趋势。随着男多女少人群比例的增大，越来越多男性平等对待女性，甚至很多男性已经把女性放在比自己更高一等的社会地位上。虽然还有一些男权主义者仍然负隅顽抗还在坚持大男子主义，但一直受到社会舆论的鞭挞指责。 人类社会自母系社会而来，现在往母系社会回归，也没有什么大不了的。当然这一切都是过去式了。自从上个礼拜从山上挖的一朵大蘑菇竟然是传说已久的灵芝，而我当普通年份的做菜吃了以后，整个人突然就不一样的。后来翻看了从古书市场三块钱淘来《修真秘笈》里透露的内容才知道，想来这朵灵芝是有上万年份的极品仙药了。 说来你或许并不相信，但不如此又怎么能解释我在修真世界里最多也就是炼体期的小子，而且是根骨平庸至极的角色，历经数十载春秋未能巩基成功，竟然一夜之间突破化神期，来到这颗哈宝星球呢？ 哈宝星球虽然地处遥远星系，连当今世界上最大口径望远镜“中国天眼”也不能观察到哈宝星球，但这虽然小，却只有我一人在此修炼，虽然跟地球星上一样，仍然需要忍受空虚寂寞冷的修真世界真意，但无拘无束却也有小自在。 再说了，这世界只有自己强大起来了，才能改变自己的处境。没有一个强大的自己，何来女神的青睐有加？ 这世间最可怕的便是“情”字，能让人生，能让人死。每个人都有自己的情缘，但世事往往无常，中意自己的，自己却无意，自己喜欢的，却无意于自己。果然如地球星上某版《猪八戒》电视剧里说的那一句：多情自古空余恨，此恨绵绵无绝期！ 吾心安处即故乡，打理好只属于我的哈宝星，让这一片寂寞荒凉的土地上充满勃勃生机！ —— 三八女神节，写在哈宝星球！
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h3 id="操作场景" class="article-heading">操作场景</h3>
-<p>在首次创建静态网站前，您必须先完成授权操作和实名认证，以获得对腾讯云云产品的操作权限。以下将介绍这两项工作的具体操作步骤。</p>
-<h3 id="持续部署权限配置" class="article-heading"><a href="https://help.coding.net/docs/pages/operating/pre-work.html#%E6%8C%81%E7%BB%AD%E9%83%A8%E7%BD%B2%E6%9D%83%E9%99%90%E9%85%8D%E7%BD%AE" class="headerlink" title="持续部署权限配置"></a>持续部署权限配置</h3>
-<p>您所在的 CODING 用户组需拥有持续部署的管理、部署、删除权限，否则将无法进行网站部署。您可联系您的团队所有者/管理员为您开通这些权限，团队所有者/管理员的操作步骤如下：</p>
-<ol>
-<li>
-<p>登录 CODING 控制台；</p>
-</li>
-<li>
-<p>进入需进行静态网站服务部署的项目；</p>
-</li>
-<li>
-<p>单击左下角的「项目设置」；</p>
-</li>
-</ol>
-<p><img class="zoom-img medium-zoom-image" src="https://help-assets.codehub.cn/enterprise/20201221201626.png"></p>
-<ol start="4">
-<li>确认所在的用户组勾选了静态网站的三个权限；</li>
-</ol>
-<p><img class="zoom-img medium-zoom-image" src="https://help-assets.codehub.cn/enterprise/20201221200736.png"></p>
-<ol start="5">
-<li>若持续部署相关权限为不可选状态，则需前往【团队管理】-&gt;【权限配置】中为用户组勾选【部署管理】；</li>
-</ol>
-<p><img class="zoom-img medium-zoom-image" src="https://help-assets.codehub.cn/enterprise/20201222100621.png"></p>
-<h3 id="腾讯云权限配置" class="article-heading"><a href="https://help.coding.net/docs/pages/operating/pre-work.html#%E8%85%BE%E8%AE%AF%E4%BA%91%E6%9D%83%E9%99%90%E9%85%8D%E7%BD%AE" class="headerlink" title="腾讯云权限配置"></a>腾讯云权限配置</h3>
-<p>使用 CODING 静态网站服务前，您绑定的腾讯云账号必须拥有 <code>CODING_QCSRole</code> 和 <code>SLS_QCSRole</code> 两个权限角色及这些角色关联的权限策略，否则将无法进行网站部署，您可以在<a target="_blank" rel="noopener noreferrer" href="https://console.cloud.tencent.com/cam/role">腾讯云访问管理控制台</a>查询是否拥有该权限角色。为方便操作，您可以在 CODING 一键完成授权。授权步骤如下：</p>
-<ol>
-<li>点击静态网站部署按钮，进行部署操作前将自动校验腾讯云权限；</li>
-</ol>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>软件看着还好吧</title>
-        <author>
-            <name>哈宝星</name>
-        </author>
-        <link href="https://habaoxing.cn/ruan-jian-kan-zhao-huan-hao-ba/index.html"/>
-        <id>https://habaoxing.cn/ruan-jian-kan-zhao-huan-hao-ba/index.html</id>
-
-        <updated>2021-03-07T16:57:06+08:00</updated>
-            <summary>
-                <![CDATA[
-                    个人博客及普通情况某个人博客部署在 COS 北京地域，每日外网请求量为 100 次，静态网站文件大小为 10MB，所有外网请求均通过 CDN，每次外网请求下载 100KB 数据。 计费方式： COS 标准存储费用：0.118 元/GB/月 X（10MB/1024）= 0.0012 元 （不足 1 分不计费） COS 调用次数费用： 100 次 * 30 天/10000 X 0.01 = 0.003 元 （不足 1 分不计费） COS CDN 回源流量费用：10MB/1024 X 0.15 元/GB = 0.0014 元 （不足 1&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <article class="helpArticle markdown-body">
-<h4 id="个人博客及普通情况" class="article-heading">个人博客及普通情况</h4>
-<p>某个人博客部署在 COS 北京地域，每日外网请求量为 100 次，静态网站文件大小为 10MB，所有外网请求均通过 CDN，每次外网请求下载 100KB 数据。</p>
-<p><strong>计费方式：</strong><br>COS 标准存储费用：0.118 元/GB/月 X（10MB/1024）= 0.0012 元 （不足 1 分不计费）<br>COS 调用次数费用： 100 次 * 30 天/10000 X 0.01 = 0.003 元 （不足 1 分不计费）<br>COS CDN 回源流量费用：10MB/1024 X 0.15 元/GB = 0.0014 元 （不足 1 分不计费）</p>
-<p><strong>该博客使用自定义域名并开启了 CDN，费用如下：</strong><br>CDN 流量计费：100KB X 100 次 X 30 天/1024/1024 X 0.21 = 0.06 元</p>
-<p><strong>总费用：</strong><br>0.06 元/月</p>
-<h4 id="大客户情况" class="article-heading"><a href="https://help.coding.net/docs/pages/price.html#%E5%A4%A7%E5%AE%A2%E6%88%B7%E6%83%85%E5%86%B5" class="headerlink" title="大客户情况"></a>大客户情况</h4>
-<p>某企业门户网站部署在 COS 北京地域，每日外网请求量为 10 万次，静态网站文件大小为 300MB，所有外网请求均通过 CDN，每次外网请求下载 100KB 数据。</p>
-<p><strong>计费方式：</strong><br>COS 标准存储费用：0.118 元/GB/月 X（300MB/1024）= 0.035 元<br>COS 调用次数费用： 100 次 X 30 天/10000 X 0.01 = 3 元<br>COS CDN 回源流量费用：300 MB /1024 X 0.15 元/GB = 0.04 元</p>
-<p><strong>该大客户使用自定义域名并开启了 CDN，费用如下：</strong><br>CDN 流量计费：100KB X 100000 次 X 30 天/1024/1024 X 0.21 = 60 元</p>
-<p><strong>总费用：</strong><br>0.035 元/月 + 3 元/月 + 0.04 元/月 + 60 元/月 = 63.08 元/月</p>
-<h3 id="price" class="article-heading"><a href="https://help.coding.net/docs/pages/price.html#price" class="headerlink" title="关联产品计费规则"></a><a href="https://help.coding.net/docs/pages/price.html#price">关联产品计费规则</a></h3>
-<p>腾讯云对象存储 COS 与腾讯云内容分发网络 CDN 的收费标准如下：</p>
-<div class="table-wrap"><svg fill="currentColor" preserveaspectratio="xMidYMid meet" height="25px" width="25px" viewbox="0 0 18 18" class="cuk-icon cuk-icon-expand null" id="fuck"><g><path d="m15.0292969 2.81425781-3.3257813.41308594c-.1160156.0140625-.1634765.1546875-.0826172.23730469l.9615235.96152343-2.69824221 2.69824219c-.05449219.05449219-.05449219.14414063 0 .19863281l.79277341.79277344c.0544922.05449219.1441407.05449219.1986328 0l2.7-2.7.9615235.96152344c.0826172.08261719.2232422.03339844.2373047-.08261719l.4113281-3.32402344c.0123047-.09140625-.0650391-.16875-.1564453-.15644531zm-7.70625002 7.06992188c-.05449219-.05449219-.14414063-.05449219-.19863282 0l-2.69824218 2.70000001-.96152344-.9615235c-.08261719-.0826171-.22324219-.0333984-.23730469.0826172l-.41308594 3.3240235c-.01054687.0914062.06503907.1669922.15644532.1564453l3.32578125-.413086c.11601562-.0140625.16347656-.1546875.08261718-.2373046l-.96152343-.9615235 2.7-2.7c.05449218-.0544922.05449218-.1441406 0-.1986328z"></path></g></svg>
-<table>
-<thead>
-<tr>
-<th>服务</th>
-<th>计费规则</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>对象存储 COS</td>
-<td><a target="_blank" rel="noopener noreferrer" href="https://cloud.tencent.com/document/product/436/16871">COS 计费说明</a></td>
-</tr>
-<tr>
-<td>内容分发网络 CDN</td>
-<td><a target="_blank" rel="noopener noreferrer" href="https://cloud.tencent.com/document/product/228/2949">CDN 计费说明</a></td>
-</tr>
-</tbody>
-</table>
-</div>
-<p> </p>
-<div id="READNUM" class="readNum">阅读 6548</div>
-<div id="TableModal" class="tableModal"> </div>
-<div class="post-nav-area">
-<div class="post-nav"><a class="pre" href="https://help.coding.net/docs/pages/practice/hexo.html"><span class="postPrev">上一篇<span class="title">搭建 hexo 博客</span></span></a><a class="next" href="https://help.coding.net/docs/pages/faq.html"><span class="postNext">下一篇<span class="title">常见问题</span></span></a></div>
-</div>
-<div class="pageFeedbackArea">
-<div class="pageFeedback">
-<div class="updateTime"><img class="updateAvatar" src="https://assets.codehub.cn/resources/logo3-png.png"><span id="RecentUpdate">最近更新 2 个月前</span></div>
-<div class="fd-right">
-<div class="fd-btn good"><span id="helpdocGoodBtn" class="like"></span>有用</div>
-<div class="fd-btn bad"><span id="helpdocBadBtn" class="dislike"></span>没用</div>
-</div>
-</div>
-</div>
-<code class="hljs none">undefined</code></article>
-<div class="pageRight">
-<aside class="helpTOC helpTOCRight">
-<div class="helpTOCTitle">文章内容</div>
-<ol class="toc">
-<li style="list-style-type: none">
-<ol class="toc">
-<li class="toc-item toc-level-3"><a class="toc-link" href="https://help.coding.net/docs/pages/price.html#%E8%B5%84%E6%BA%90%E8%AF%B4%E6%98%8E"><span class="toc-text">资源说明</span></a></li>
-</ol>
-</li>
-</ol>
-</aside>
-</div>
+                <p>今天是公元2021年3月8日，虽然是阴雨天气，但在我原来呆的地球星上却是一个大日子，顶起地球半边天的女性专属节日！</p>
+<p>自从女性开启了女权启蒙运动以来，从原来男权社会的家庭附属品地位，身份一跃千里，已然进入女权社会，男权已被打压得抬不起头来。从女性节日的称呼就可看出来，最先是充满辱骂意味的“（死）三八”，发展到3月7日女生节，而3月8日则高调的成为女神节。已经有了“男人贱如狗，女神遍地走”的趋势。随着男多女少人群比例的增大，越来越多男性平等对待女性，甚至很多男性已经把女性放在比自己更高一等的社会地位上。虽然还有一些男权主义者仍然负隅顽抗还在坚持大男子主义，但一直受到社会舆论的鞭挞指责。</p>
+<p>人类社会自母系社会而来，现在往母系社会回归，也没有什么大不了的。当然这一切都是过去式了。自从上个礼拜从山上挖的一朵大蘑菇竟然是传说已久的灵芝，而我当普通年份的做菜吃了以后，整个人突然就不一样的。后来翻看了从古书市场三块钱淘来《修真秘笈》里透露的内容才知道，想来这朵灵芝是有上万年份的极品仙药了。</p>
+<p>说来你或许并不相信，但不如此又怎么能解释我在修真世界里最多也就是炼体期的小子，而且是根骨平庸至极的角色，历经数十载春秋未能巩基成功，竟然一夜之间突破化神期，来到这颗哈宝星球呢？</p>
+<p>哈宝星球虽然地处遥远星系，连当今世界上最大口径望远镜“中国天眼”也不能观察到哈宝星球，但这虽然小，却只有我一人在此修炼，虽然跟地球星上一样，仍然需要忍受空虚寂寞冷的修真世界真意，但无拘无束却也有小自在。</p>
+<p>再说了，这世界只有自己强大起来了，才能改变自己的处境。没有一个强大的自己，何来女神的青睐有加？</p>
+<p>这世间最可怕的便是“情”字，能让人生，能让人死。每个人都有自己的情缘，但世事往往无常，中意自己的，自己却无意，自己喜欢的，却无意于自己。果然如地球星上某版《猪八戒》电视剧里说的那一句：多情自古空余恨，此恨绵绵无绝期！</p>
+<p>吾心安处即故乡，打理好只属于我的哈宝星，让这一片寂寞荒凉的土地上充满勃勃生机！</p>
+<p>—— 三八女神节，写在哈宝星球！</p>
             ]]>
         </content>
     </entry>
